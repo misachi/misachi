@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a basic storage system called DarDB
-- 🌱 I’m currently interested in filesystems and database systems
+- 🌱 I’m currently interested in filesystems and storage systems
 - 👯 I’m looking to collaborate on interesting systems projects
 - 📫 How to reach me: misachibrian@gmail.com
 
